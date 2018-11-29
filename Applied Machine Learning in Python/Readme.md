@@ -15,9 +15,9 @@ Explain different approaches for creating predictive models
 ###
 
 ### *SKILLS YOU WILL GAIN*
--------
-Python Programming,
-Machine Learning (ML) Algorithms,
-Machine Learning,
-Scikit-Learn,
--------
+
+##### Python Programming
+##### Machine Learning (ML) Algorithms
+##### Machine Learning
+##### Scikit-Learn
+
